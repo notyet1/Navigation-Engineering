@@ -1,0 +1,13 @@
+﻿  源.cpp
+D:\code\position\position\源.cpp(147,34): warning C4244: “=”: 从“_Ty”转换到“int”，可能丢失数据
+D:\code\position\position\源.cpp(147,34): warning C4244:         with
+D:\code\position\position\源.cpp(147,34): warning C4244:         [
+D:\code\position\position\源.cpp(147,34): warning C4244:             _Ty=double
+D:\code\position\position\源.cpp(147,34): warning C4244:         ]
+D:\code\position\position\源.cpp(148,33): warning C4244: “=”: 从“_Ty”转换到“int”，可能丢失数据
+D:\code\position\position\源.cpp(148,33): warning C4244:         with
+D:\code\position\position\源.cpp(148,33): warning C4244:         [
+D:\code\position\position\源.cpp(148,33): warning C4244:             _Ty=double
+D:\code\position\position\源.cpp(148,33): warning C4244:         ]
+D:\code\position\position\源.cpp(71,7): warning C4101: “s1”: 未引用的局部变量
+  position.vcxproj -> D:\code\position\x64\Debug\position.exe
