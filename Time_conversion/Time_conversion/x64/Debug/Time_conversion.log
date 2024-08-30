@@ -1,0 +1,3 @@
+﻿  time.cpp
+C:\Users\28157\source\repos\Time_conversion\Time_conversion\time.cpp(35,40): warning C4244: “初始化”: 从“__int64”转换到“long”，可能丢失数据
+  Time_conversion.vcxproj -> C:\Users\28157\source\repos\Time_conversion\x64\Debug\Time_conversion.exe
