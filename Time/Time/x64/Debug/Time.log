@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\code\Time\Time\func.h(107,31): warning C4244: “=”: 从“double”转换到“unsigned long”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\code\Time\Time\func.h(113,36): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+  Time.vcxproj -> D:\code\Time\x64\Debug\Time.exe
