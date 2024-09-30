@@ -1,0 +1,17 @@
+﻿  main.cpp
+D:\code\RENIX_READ\RENIX_READ\file.h(166,26): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  (编译源文件“main.cpp”)
+  
+D:\code\RENIX_READ\RENIX_READ\file.h(241,26): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  (编译源文件“main.cpp”)
+  
+D:\code\RENIX_READ\RENIX_READ\file.h(318,41): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\code\RENIX_READ\RENIX_READ\file.h(386,68): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\code\RENIX_READ\RENIX_READ\file.h(387,65): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+  RENIX_READ.vcxproj -> D:\code\RENIX_READ\x64\Debug\RENIX_READ.exe
