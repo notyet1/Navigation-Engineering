@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\code\Matrix_caculation\Matrix_caculation\func.h(308,6): error C2084: 函数“void Kalmanfliter(int,int,int,Matrix &,Matrix &,Matrix &,Matrix &)”已有主体
+  (编译源文件“main.cpp”)
+  D:\code\Matrix_caculation\Matrix_caculation\func.h(301,6):
+  参见“Kalmanfliter”的前一个定义
+  
